@@ -1,0 +1,37 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^5.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-webserver": "^0.9.1",
+    "gulp-wrap": "^0.13.0",
+    "map-stream": "0.0.7",
+    "req": "^0.1.4",
+    "run-sequence": "^2.2.1",
+    "yargs": "^11.0.0"
+  },
+  "name": "fidgeters-site",
+  "description": "\\n This is a private repo of the Fidgeters website",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mremac/fidgeters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mremac/fidgeters/issues"
+  },
+  "homepage": "https://github.com/mremac/fidgeters#readme"
+}
